@@ -1,4 +1,5 @@
 # Tarea 1 de Microprocesadores y Microcontroladores}
+# ERR9x2 -4
 
 def check_char(crt):
     resultado = 1  # definción de variable del resultado
